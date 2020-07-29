@@ -1,0 +1,21 @@
+.mesg{
+    padding:10px;
+    margin: 10px;
+    width: fit-content;
+   
+}
+.mesg--user{
+    margin-left: auto;
+    text-align: right;
+    
+    
+    
+}
+
+.mesg__userCard{
+    background-color: rgb(255, 58, 58)!important;
+    color: white!important;
+}
+.mesg__guestCard{
+    background-color: rgb(240, 238, 238)!important;
+}
