@@ -39,7 +39,7 @@ function App() {
   return (
     <div className="App">
       <img alt="logo" src={Logo} width="100" height="100"/>
-      <h1> Love This finnaly the sleep is gone</h1>
+      <h1>Welcome to Ze Ping</h1>
   <h2>Welcome:  
     {/* {user && `${user || }`}  */}
   {user ?` ${user}`  : ` Guest` }
